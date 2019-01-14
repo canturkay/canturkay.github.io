@@ -16,7 +16,7 @@ jQuery(window).load(function(){
 			speed: 500,            // Integer: Speed of the transition, in milliseconds
 			timeout: 4000,          // Integer: Time between slide transitions, in milliseconds
 			pager: true,           // Boolean: Show pager, true or false
-			nav: true,             // Boolean: Show navigation, true or false
+			nav: false,             // Boolean: Show navigation, true or false
 			random: false,          // Boolean: Randomize the order of the slides, true or false
 			pause: false,           // Boolean: Pause on hover, true or false
 			pauseControls: true,    // Boolean: Pause when hovering controls, true or false
@@ -54,7 +54,7 @@ jQuery(window).load(function(){
 		                <div class="description">'+data.description+'</div>\
 		              </div>\
 		              <div class="link-box">\
-		                <div class="link'+(!data.url? " disable": "")+'"><a href="'+(data.url || "#")+'" target="_blank">View online</a></div>\
+		                <div class="link"><a href="'+data.url+'">View online</a></div>\
 		              </div>\
 		            </div>';  
 		  }
@@ -155,18 +155,16 @@ jQuery(window).load(function(){
 
 		if ($('.sliders').hasClass('close-box')) {
 			setTimeout(function() {
-				slider_container_height = $(".sliders .container-fluid").height();
 				$(".sliders").css('max-height', slider_container_height);
 				$(".sliders").css('height', slider_container_height);
 				// $(this).trigger( "click" );
 			}, 600);
 
 		}else{
-			setTimeout(function() {
-				slider_container_height = $(".sliders .container-fluid").height();
-				$(".sliders").css('max-height', slider_container_height);
-				$(".sliders").css('height', slider_container_height);
-			}, 1000);
+			// setTimeout(function() {
+			$(".sliders").css('max-height', slider_container_height);
+			$(".sliders").css('height', slider_container_height);
+			// }, 1200);
 		};
 
 

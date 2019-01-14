@@ -8,8 +8,8 @@
 	/* notify me options ************************************/
 
 	/* Mailchimp setting */
-	define('MC_APIKEY', '9035ae0f97d699da612d71592b085a36-us20'); //Your API key from here - http://admin.mailchimp.com/account/api
-  define('MC_LISTID', 'e54737c301'); //List unique id from here - http://admin.mailchimp.com/lists/
+	//define('MC_APIKEY', '9035ae0f97d699da612d71592b085a36-us20'); //Your API key from here - http://admin.mailchimp.com/account/api
+  //define('MC_LISTID', 'e54737c301'); //List unique id from here - http://admin.mailchimp.com/lists/
 
 	/* GetResponse setting */
 	//define('GR_APIKEY', ''); //Your API key fr om here - https://app.getresponse.com/my_api_key.html

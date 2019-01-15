@@ -5,7 +5,7 @@ $headers = 'From: (Your site)' . "\r\n" . 'Content-type: text/html; charset=utf-
 $message = '
 <html>
 	<head>
-		<title>Your Site Contact Form</title>
+		<title>canturkay.github.io Contact Form</title>
 	</head>
 	<body>
 		<h3>Name: <span style="font-weight: normal;">' . $_POST['name'] . '</span></h3>

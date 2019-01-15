@@ -30,8 +30,43 @@
 	"5" : {
 		"title" : "SANTOR-SHERPA Engineering",
 		"description" : "<p>Report app</p> <p>translator</p>",
-		"client" : "Internship",
+		"client" : "Engineering Internship",
 		"url" : "",
-		"photos" : ["images/portfolio/projects/SANTOR.jpg"]
+		"photos" : ["images/portfolio/internships/SANTOR.jpg"]
+	},
+	"6" : {
+		"title" : "FIGES Advanced Engineering Solutions",
+		"description" : "<p>Car model on Simulink</p> <p>Simulated model to run performance tests</p>",
+		"client" : "Engineering Internship",
+		"url" : "",
+		"photos" : ["images/portfolio/internships/FIGES.jpg"]
+	},
+	"7" : {
+		"title" : "Iletisim Yazilim Industrial Software Development",
+		"description" : "<p>Reduced hardware costs</p> <p>Automated job assignment procedure for employees in an car factory</p>",
+		"client" : "Engineering Internship",
+		"url" : "",
+		"photos" : ["images/portfolio/internships/iletisim.jpg"]
+	},
+	"8" : {
+		"title" : "Iletisim Yazilim Industrial Software Development",
+		"description" : "<p>Automation algorithm to use laser cutter</p> <p>car part manufacturing</p>",
+		"client" : "Engineering Internship",
+		"url" : "",
+		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
+	},
+	"11" : {
+		"title" : "IEEE at Northwestern",
+		"description" : "<p>Member of Mobile App Development Team</p> <p>working on Tagalong</p>",
+		"client" : "Campus Involvement",
+		"url" : "http://ieee.northwestern.edu/",
+		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
+	},
+	"12" : {
+		"title" : "NUSOLAR",
+		"description" : "<p>Member of Northwestern University Solar Car Team</p> <p>Software developer in telemetry team</p>",
+		"client" : "Campus Involvement",
+		"url" : "https://nusolar.org/",
+		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
 	}
 }

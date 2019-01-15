@@ -9,8 +9,8 @@ jQuery(window).load(function(){
 	}
 
 	initSlider = function(selector) {
-	
-		
+
+
 		$(selector).responsiveSlides({
 			auto: false,             // Boolean: Animate automatically, true or false
 			speed: 500,            // Integer: Speed of the transition, in milliseconds
@@ -30,14 +30,14 @@ jQuery(window).load(function(){
 			after: function(){}     // Function: After callback
 		});
 	}
-	
+
 	buildSlider = function(data) {
 
 		var html = false;
-	
+
 		  if (data) {
 		    html = '<h4 class="album-name text-center">'+data.title+'</h4><div class="clearfix"></div>';
-		    
+
 		    // while photos
 		    if($(data.photos).size()) {
 		      html += '<div class="wrap-slider no-padding col-md-8 col-md-push-4 col-sm-12"><div class="photos-container">';
@@ -56,12 +56,12 @@ jQuery(window).load(function(){
 		              <div class="link-box">\
 		                <div class="link"><a href="'+data.url+'">View online</a></div>\
 		              </div>\
-		            </div>';  
+		            </div>';
 		  }
 
 		return html;
 	}
-	
+
 	getNextID = function (current_element_id) {
 		var nextAlbomID = false;
 		if ((cache.length - 1) != current_element_id) {
@@ -69,9 +69,12 @@ jQuery(window).load(function(){
 		} else {
 			nextAlbomID = cache[0];
 		}
+		//if (current_element_id == '9' || current_element_id == '10' || current_element_id == '15' || current_element_id == '16'){
+		//	return getNextID(nextAlbomID);		}
 		return nextAlbomID;
+
 	}
-		
+
 	getPrevID = function (current_element_id) {
 		var prevAlbomID = false;
 		if (current_element_id != 0) {
@@ -79,25 +82,15 @@ jQuery(window).load(function(){
 		} else {
 			prevAlbomID = cache[cache.length - 1];
 		}
+
 		return prevAlbomID;
 	}
-	
+
 	navigateAlboms = function() {
-	
+
 		$(".sliders a.prev").click(function() {
 			var albom_id = $(this).data('albomid');
-			
-			var current_element_id = $.inArray(albom_id, cache);
-			var nextAlbomID = getNextID(current_element_id);
-			var prevAlbomID = getPrevID(current_element_id);
-			
-			create(albom_id, nextAlbomID, prevAlbomID);
-			return false;
-		});
-		
-		$(".sliders a.next").click(function() {
-			var albom_id = $(this).data('albomid');
-			
+
 			var current_element_id = $.inArray(albom_id, cache);
 			var nextAlbomID = getNextID(current_element_id);
 			var prevAlbomID = getPrevID(current_element_id);
@@ -105,7 +98,18 @@ jQuery(window).load(function(){
 			create(albom_id, nextAlbomID, prevAlbomID);
 			return false;
 		});
-		
+
+		$(".sliders a.next").click(function() {
+			var albom_id = $(this).data('albomid');
+
+			var current_element_id = $.inArray(albom_id, cache);
+			var nextAlbomID = getNextID(current_element_id);
+			var prevAlbomID = getPrevID(current_element_id);
+
+			create(albom_id, nextAlbomID, prevAlbomID);
+			return false;
+		});
+
 		$("a.a-sliders-close").click(function() {
 			$('.sliders .sliders-preloader').removeClass('loaded');
 			$('.sliders .container-fluid').removeClass('view-slide');
@@ -116,26 +120,26 @@ jQuery(window).load(function(){
 				$('.sliders .container-fluid').hide();
 				destroy('#albom');
 			},1000);
-			
+
 			return false;
 		});
 	}
-	
+
 	getJsonArray = function (elements, callback_success, callback_error) {
 		$.getJSON(portfolioConfig, function(data) {
-			
+
 			for (index = 0; index < elements.length; ++index) {
 				// buildAlbumSlider(elements[index], data[elements[index]]);
 			}
-			
+
 			if (callback_success && typeof(callback_success) === "function") {
 				callback_success(data);
 			}
 	    });
 	}
-	
+
 	getJsonID = function (id, callback_success, callback_error) {
-	
+
 	    $.getJSON(portfolioConfig, function(data) {
 
 			var d = data[id];
@@ -144,13 +148,13 @@ jQuery(window).load(function(){
 			}
 	    });
 	}
-	
+
 	destroy = function(selector){
 		jQuery(selector).html("");
 	}
-	
+
 	create = function(current_id, next_id, prev_id) {
-		
+
 		/* Fix height */
 
 		if ($('.sliders').hasClass('close-box')) {
@@ -168,15 +172,15 @@ jQuery(window).load(function(){
 		};
 
 
-		
+
 		$('.sliders').removeClass('close-box');
 
-		
+
 		$('.sliders .sliders-preloader').removeClass('loaded');
 		$('.sliders .container-fluid').removeClass('view-slide');
-		
+
 		$('.sliders .container-fluid').fadeOut({
-			
+
 			complete: function() {
 
 				getJsonID(current_id, function(data){
@@ -184,11 +188,11 @@ jQuery(window).load(function(){
 
 					jQuery(".sliders .container-fluid a.next").data('albomid', next_id);
 					jQuery(".sliders .container-fluid a.prev").data('albomid', prev_id);
-					
+
 					jQuery("#albom").html(html);
-							
+
 					initSlider('.photos-container');
-							
+
 					$('.sliders .container-fluid').fadeIn({
 						easing: 'swing',
 						complete: function() {
@@ -202,16 +206,16 @@ jQuery(window).load(function(){
 			}
 		});
 	}
-	
+
 	jQuery('.element-item').click(function () {
-	
+
 		// Select current element ID
 		var currentAlbomID = $(this).data('albumid');
-		
+
 		// ReInit after click
 		cache = [];
 		jQuery('.element-item:visible').each(function(index, element) {
-		
+
 			var AlbomID = $(element).data('albumid');
 			cache.push(AlbomID);
 		});
@@ -219,13 +223,13 @@ jQuery(window).load(function(){
 		var current_element_id = $.inArray(currentAlbomID, cache);
 		var nextAlbomID = getNextID(current_element_id);
 		var prevAlbomID = getPrevID(current_element_id);
-		
-		
+
+
 		// Get JSON
 		create(currentAlbomID, nextAlbomID, prevAlbomID);
 
 	});
-	
+
 	navigateAlboms();
 
 });

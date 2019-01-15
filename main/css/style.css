@@ -10,7 +10,7 @@ License: ThemeForest Regular & Extended License
 License URI: http://themeforest.net/licenses/regular-extended
 */
 /*------------------------------------------------------------------
-[Table of contents]  
+[Table of contents]
 
 1. Include Variables styles..............................(Line 90)
 2. Include appear-animate styles.........................(Line 91)
@@ -2786,7 +2786,7 @@ figure figcaption {
   line-height: 1.8;
 }
 
-/* style ol, ul 
+/* style ol, ul
 ----------------------------------------------------- */
 /* line 205, ../sass/_typography.scss */
 ol {
@@ -2807,7 +2807,7 @@ ul li {
   list-style-image: url(../images/li-img.png);
 }
 
-/* style table 
+/* style table
 ----------------------------------------------------- */
 /* line 230, ../sass/_typography.scss */
 .table-responsive {
@@ -4474,7 +4474,7 @@ body {
   color: #333333;
 }
 
-/* Preloader 
+/* Preloader
 -----------------------------------------------------------------*/
 /* line 101, ../sass/style.scss */
 .preloader {
@@ -4587,7 +4587,7 @@ body.no-scroll {
   overflow: hidden;
 }
 
-/* Default Section 
+/* Default Section
 -----------------------------------------------------------------*/
 /* line 191, ../sass/style.scss */
 main {
@@ -4612,7 +4612,7 @@ main {
   }
 }
 
-/* Background 
+/* Background
 -----------------------------------------------------------------*/
 /* line 209, ../sass/style.scss */
 .background {
@@ -4653,7 +4653,7 @@ main {
   position: relative;
 }
 
-/* Video Background 
+/* Video Background
 ---------------------------------------------------------------------*/
 /* line 245, ../sass/style.scss */
 .bg-video video, .bg-video-all video {
@@ -6465,7 +6465,7 @@ header.top-menu {
   }
 }
 
-/*  SLIDERS PORTFOLIO STYLE 
+/*  SLIDERS PORTFOLIO STYLE
 -----------------------------------------------------------------------------------*/
 /* line 1674, ../sass/style.scss */
 .sliders {
@@ -7035,7 +7035,7 @@ header.top-menu {
     position: static;
   }
 }
-/* twitter-timeline 
+/* twitter-timeline
 -------------------------------------------------------------------------*/
 /* line 2129, ../sass/style.scss */
 .twitter-timeline ul {
@@ -7062,7 +7062,7 @@ header.top-menu {
   width: 15px;
 }
 
-/* instagram-timeline 
+/* instagram-timeline
 -------------------------------------------------------------------------*/
 /* line 2154, ../sass/style.scss */
 #instagram-timeline ul {
@@ -7139,7 +7139,7 @@ header.top-menu {
   text-align: center;
 }
 
-/*  Small Icon 
+/*  Small Icon
 ------------------------------------------------------------------------*/
 /* line 2218, ../sass/style.scss */
 .sm-icon {
@@ -7157,7 +7157,7 @@ header.top-menu {
   width: 100% !important;
 }
 
-/*  Services 
+/*  Services
 ------------------------------------------------------------------------*/
 /* line 2234, ../sass/style.scss */
 .big-icon-box {
@@ -8816,7 +8816,7 @@ header.top-menu {
   margin-top: 4px;
 }
 
-/* PAGINATION 
+/* PAGINATION
 ---------------------------------------------------------------------------------*/
 /* line 3587, ../sass/style.scss */
 .pagination {
@@ -9026,7 +9026,7 @@ header.top-menu {
   font-size: 0.92857rem;
 }
 
-/* SEARCH FORM 
+/* SEARCH FORM
 ------------------------------------------ -------------------------------- ----------------*/
 /* line 3777, ../sass/style.scss */
 #searchform {
@@ -9080,12 +9080,12 @@ header.top-menu {
   }
 }
 
-/* WIDGET 
+/* WIDGET
 --------------------------------------------------- ------------------------------ --------------*/
 /* line 3827, ../sass/style.scss */
 .widget {
   margin-bottom: 52px;
-  /* widget-recent-entries 
+  /* widget-recent-entries
   ----------------------------------------------------------------- */
 }
 @media (max-width: 991px) {
@@ -9204,7 +9204,7 @@ header.top-menu {
   margin-top: 4px;
 }
 
-/*  Calendar 
+/*  Calendar
 ------------------------------------------------------------ */
 /* line 3933, ../sass/style.scss */
 #calendar-wrap {
@@ -9462,7 +9462,7 @@ header.top-menu {
   color: white !important;
 }
 
-/* COMMENTS 
+/* COMMENTS
 ------------------------------------------------------------------------------------*/
 /* line 4153, ../sass/style.scss */
 .success, #success {
@@ -9587,7 +9587,7 @@ header.top-menu {
   -webkit-line-clamp: 99;
 }
 
-/*  LEAVE COMMENT 
+/*  LEAVE COMMENT
 ------------------------------------------------------ */
 /* line 4255, ../sass/style.scss */
 #respond {
@@ -9985,7 +9985,7 @@ header.top-menu {
   width: 100%;
 }
 
-/* Block Maps 
+/* Block Maps
 -----------------------------------------------------------------------*/
 /* line 4607, ../sass/style.scss */
 .map-canvas {
@@ -10005,7 +10005,7 @@ header.top-menu {
   }
 }
 
-/* Soc-icon 
+/* Soc-icon
 -----------------------------------------------------------------------*/
 /* line 4623, ../sass/style.scss */
 .soc-icon {
@@ -10232,7 +10232,7 @@ header.top-menu {
   color: white !important;
 }
 
-/* Page-404 
+/* Page-404
 -------------------------------------------------------------------------------------*/
 /* line 4820, ../sass/style.scss */
 .page-404 h1 {

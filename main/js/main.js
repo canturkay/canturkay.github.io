@@ -1711,34 +1711,37 @@ function dataAttrSkills(elem, dataName, setDefault) {
 /* Google Map
 -----------------------------------------------------------------------*/
 
-function initializeMap() {
-  var myCenter=new google.maps.LatLng(42.0504354, -87.6782099319494);
-  var image = 'images/marker.png';
-  var marker=new google.maps.Marker({
-      position:myCenter,
-      title: 'Manhattan',
-      icon: image,
-  });
 
-  var mapProp = {
-      center:myCenter,
-      zoom: 10,
-      draggable: false,
-      scrollwheel: false,
-      disableDefaultUI: true,
-      mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
 
-  var map=new google.maps.Map(document.getElementById("map-canvas"),mapProp);
-  marker.setMap(map);
 
-  google.maps.event.addListener(marker, 'click', function() {
+    function initializeMap() {
+      var myCenter=new google.maps.LatLng(42.0504354, -87.6782099319494);
+      var image = 'images/marker.png';
+      var marker=new google.maps.Marker({
+          position:myCenter,
+          title: 'Manhattan',
+          icon: image,
+      });
 
-    infowindow.setContent(contentString);
-    infowindow.open(map, marker);
+      var mapProp = {
+          center:myCenter,
+          zoom: 10,
+          draggable: false,
+          scrollwheel: false,
+          disableDefaultUI: true,
+          mapTypeId:google.maps.MapTypeId.ROADMAP
+      };
 
-  });
-}
+      var map=new google.maps.Map(document.getElementById("map-canvas"),mapProp);
+      marker.setMap(map);
+
+      google.maps.event.addListener(marker, 'click', function() {
+
+        infowindow.setContent(contentString);
+        infowindow.open(map, marker);
+
+      });
+    }
 
 /* Portfolio fadeIn element
 ----------------------------------------------------------------------*/

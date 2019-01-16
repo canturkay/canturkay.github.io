@@ -68,5 +68,40 @@
 		"client" : "Campus Involvement",
 		"url" : "https://nusolar.org/",
 		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
+	},
+	"13" : {
+		"title" : "TURGOK",
+		"description" : "<p>Volunteered at Turkey's Library for the Visually Disabled</p> <p>Improved communication skills.</p>",
+		"client" : "Volunteer",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/TURGOK.jpg"]
+	},
+	"14" : {
+		"title" : "Amateur Rocketry",
+		"description" : "<p>I've been building amateur rockets</p> <p>Software developer in telemetry team</p>",
+		"client" : "Hobbies",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
+	},
+	"17" : {
+		"title" : "Piano",
+		"description" : "<p>I've been playing piano</p> <p>--</p>",
+		"client" : "Hobbies",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
+	},
+	"18" : {
+		"title" : "Rubik's Cube",
+		"description" : "<p>I've been solving Rubik's Cube.</p> <p>--</p>",
+		"client" : "Hobbies",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
+	},
+	"19" : {
+		"title" : "Basketball",
+		"description" : "<p>I've been playing basketball</p> <p>--</p>",
+		"client" : "Hobbies",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
 	}
 }

@@ -83,13 +83,13 @@
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
 	},
+	
 	"17" : {
 		"title" : "Piano",
 		"description" : "<p>I've been playing piano</p> <p>--</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
-		
 	},
 	"18" : {
 		"title" : "Rubik's Cube",

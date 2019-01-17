@@ -5,6 +5,29 @@
  * Copyright (c) 2015 amazingSurge
  * Licensed under the GPL license.
  */
+ function polarToCartesian(centerX, centerY, radius, angleInDegrees) {
+   var angleInRadians = (angleInDegrees-90) * Math.PI / 180.0;
+
+   return {
+     x: centerX + (radius * Math.cos(angleInRadians)),
+     y: centerY + (radius * Math.sin(angleInRadians))
+   };
+ }
+
+ function describeArc(x, y, radius, startAngle, endAngle){
+
+     var start = polarToCartesian(x, y, radius, endAngle);
+     var end = polarToCartesian(x, y, radius, startAngle);
+
+     var largeArcFlag = endAngle - startAngle <= 180 ? "0" : "1";
+
+     var d = [
+         "M", start.x, start.y,
+         "A", radius, radius, 0, largeArcFlag, 0, end.x, end.y
+     ].join(" ");
+
+     return d;
+ }
 
 (function(factory) {
     "use strict";
@@ -285,6 +308,8 @@
                 " A" + r + "," + r + // Draw an arc of radius r
                 " 0 " + big + " 1 " + // Arc details...
                 x2 + "," + y2;
+
+            d = describeArc(200, 200, 100, 0, percentage*3.6);
 
             this.bar.setAttribute("d", d);
         },

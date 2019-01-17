@@ -10,7 +10,7 @@
 		"title" : "Tagalong",
 		"description" : "<p>Location based mobile app</p> <p>Safety app</p>",
 		"client" : "IEEE Project",
-		"url" : "",
+		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/projects/tagalong.jpg"]
 	},
 	"3" : {
@@ -31,28 +31,28 @@
 		"title" : "SANTOR-SHERPA Engineering",
 		"description" : "<p>Report app</p> <p>translator</p>",
 		"client" : "Engineering Internship",
-		"url" : "",
+		"url" : "https://www.sherpa-eng.com/",
 		"photos" : ["images/portfolio/internships/SANTOR.jpg"]
 	},
 	"6" : {
 		"title" : "FIGES Advanced Engineering Solutions",
 		"description" : "<p>Car model on Simulink</p> <p>Simulated model to run performance tests</p>",
 		"client" : "Engineering Internship",
-		"url" : "",
+		"url" : "http://www.figes.com.tr/en/home/",
 		"photos" : ["images/portfolio/internships/FIGES.jpg"]
 	},
 	"7" : {
 		"title" : "Iletisim Yazilim Industrial Software Development",
 		"description" : "<p>Reduced hardware costs</p> <p>Automated job assignment procedure for employees in an car factory</p>",
 		"client" : "Engineering Internship",
-		"url" : "",
+		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
 		"photos" : ["images/portfolio/internships/iletisim.jpg"]
 	},
 	"8" : {
 		"title" : "Iletisim Yazilim Industrial Software Development",
 		"description" : "<p>Automation algorithm to use laser cutter</p> <p>car part manufacturing</p>",
 		"client" : "Engineering Internship",
-		"url" : "",
+		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
 		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
 	},
 	"11" : {
@@ -73,7 +73,7 @@
 		"title" : "TURGOK",
 		"description" : "<p>Volunteered at Turkey's Library for the Visually Disabled</p> <p>Improved communication skills.</p>",
 		"client" : "Volunteer",
-		"url" : "",
+		"url" : "https://www.turgok.org/en",
 		"photos" : ["images/portfolio/extracurricular/TURGOK.jpg"]
 	},
 	"14" : {

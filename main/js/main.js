@@ -20,13 +20,13 @@ if (scrollWidth === undefined) {
   parent.remove();
 }
 
-
 /* document.ready
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------*/
 
 $(document).ready(function(){
+
   if($(".fixed-height").length>0) {
     fixedheight();
   }
@@ -1009,6 +1009,7 @@ $( window ).resize(function() {
 window.addEventListener("orientationchange", function() {
   $('.a-sliders-close').trigger( "click" );
 }, false);
+
 
 
 $( window ).load(function() {

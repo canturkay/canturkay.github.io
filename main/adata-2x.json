@@ -17,14 +17,14 @@
 		"title" : "MyHomePT App",
 		"description" : "<p>Evanston, IL</p> <p>Completed an IOS app project aimed to help stroke patients recover faster with a team of 4. Our aim was to give the patients an app that could alleviate the Physical Therapists' workload so that more patients could do the exercises at a time. Our app uses motion sensors within the phone to give active directions on how to do each exercise, aiming to help the patient perform the exercises with little supervision, or with no supervision at all. We successfully delivered our app to our client, which is actively being used by the patients.</p>",
 		"client" : "Client Communication Executive",
-		"url" : "",
+		"url" : "https://design.northwestern.edu/",
 		"photos" : ["images/portfolio/projects/MyHomePT.jpg"]
 	},
 	"4" : {
 		"title" : "Presto",
-		"description" : "<p>Evanston, IL</p> <p>Worked in a team of 4 to create a product that would help people on a wheelchair reach the elevator buttons. Gained workshop skills such as using mill and lathe. My team received Communication Award from Segal Instute of Design for my team's success in communicating with the client and understanding the users' needs.</p>",
+		"description" : "<p>Evanston, IL</p> <p>Worked in a team of 4 to create a product that would help people on a wheelchair reach the elevator buttons. Gained workshop skills such as using mill and lathe. My team received Communication Award from Segal Design Institute for my team's success in communicating with the client and understanding the users' needs.</p>",
 		"client" : "Project Manager",
-		"url" : "",
+		"url" : "https://design.northwestern.edu/",
 		"photos" : ["images/portfolio/projects/Presto.jpg", "images/portfolio/projects/PRESTO.png"]
 	},
 	"5" : {
@@ -55,56 +55,63 @@
 		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
 		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
 	},
-	"11" : {
+	"9" : {
 		"title" : "IEEE at Northwestern",
 		"description" : "<p>Evanston, IL</p> <p>Member of internationally acknowledged computer science organization IEEE. Working in the Mobile App Development Team to create Tagalong App, a location based safety app, both for IOS and Android.</p>",
 		"client" : "Member of Mobile App Development Team in IEEE",
 		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
 	},
-	"12" : {
+	"10" : {
 		"title" : "NUSOLAR",
 		"description" : "<p>Evanston, IL</p> <p>Software developer in Northwestern University Solar Car Team's Telemetry Team. Developed the car's communication protocol, so that the ground team would be able to get live feedback from the car during the race. Used Visual Basic to formulate the data received from CANBUS, and used TCP protocols to send the data to a remote computer.</p>",
 		"client" : "Software Developer in Telemetry Team",
 		"url" : "https://nusolar.org/",
 		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
 	},
-	"13" : {
+	"11" : {
 		"title" : "TURGOK",
 		"description" : "<p>Izmir, TURKEY</p> <p>Volunteered at Turkey's Library for the Visually Disabled. Helped create audio books as well as copying the books to computer to be printed in Braille. Contacted many visually impaired members of the library, both on the phone and in person to their needs and to improve the facilities of the library accordingly.</p>",
 		"client" : "Volunteer",
 		"url" : "https://www.turgok.org/en",
 		"photos" : ["images/portfolio/extracurricular/TURGOK.jpg"]
 	},
-	"14" : {
+	"12" : {
 		"title" : "Amateur Rocketry",
 		"description" : "<p>Bursa, TURKEY</p> <p>My fascination with space and rockets led me to launched 13 amateur rockets with my friends.</p>",
 		"client" : "Hobby",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
 	},
-	"17" : {
+	"13" : {
 		"title" : "Piano",
 		"description" : "<p>Anywhere, Everywere</p> <p>Learned how to play piano out of curiosity, and have been playing for 5 years now. Played many classical and popular pieces along the way.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
 	},
-	"18" : {
+	"14" : {
 		"title" : "Rubik's Cube",
 		"description" : "<p>Anywhere, Everywhere</p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Entered a tournement once in Istanbul.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
 	},
-	"19" : {
+	"15" : {
 		"title" : "Basketball",
 		"description" : "<p>Anywhere, Everywhere</p> <p>I enjoy playing basketball on my free time.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
 	},
-	"20" : {
+	"16" : {
+		"title" : "Communication Award",
+		"description" : "<p>Evanston, IL</p> <p>For the project Presto, received the Communication Award from Segal Design Institute for my team's exceptional performance in communicating with the client and understanding the needs of the users.</p>",
+		"client" : "Award from Segal Design Institute",
+		"url" : "https://design.northwestern.edu/",
+		"photos" : ["images/portfolio/awards/design.jpg"]
+	},
+	"17" : {
 		"title" : "3D Design",
 		"description" : "<p>Istanbul, TURKEY</p> <p>I enjoy playing basketball on my free time.</p>",
 		"client" : "3D Design and Programming Certificates",

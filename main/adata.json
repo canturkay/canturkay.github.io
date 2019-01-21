@@ -1,107 +1,114 @@
 {
 	"1" : {
 		"title" : "HYMN",
-		"description" : "<p>Music service</p> <p>Best music recom</p>",
-		"client" : "Personal Project",
+		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review rating website with a team of 5. Our aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services.</p>",
+		"client" : "Co-Founder of a Startup, Technical Leader",
 		"url" : "",
-		"photos" : ["images/portfolio/projects/HYMN.jpg"]
+		"photos" : ["images/portfolio	/projects/HYMN.jpg"]
 	},
 	"2" : {
-		"title" : "Tagalong",
-		"description" : "<p>Location based mobile app</p> <p>Safety app</p>",
-		"client" : "IEEE Project",
+		"title" : "Tagalong App",
+		"description" : "<p>Evanston, IL</p> <p>Working on a location based app to help people stay safe while commuting. In a team of 6, I take care of Android side of the project.</p>",
+		"client" : "Android App Developer",
 		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/projects/tagalong.jpg"]
 	},
 	"3" : {
-		"title" : "MyHomePT",
-		"description" : "<p>Application to replace physical therapist</p> <p>Increases the efficiency of therapy sessions</p>",
-		"client" : "Class Project",
+		"title" : "MyHomePT App",
+		"description" : "<p>Evanston, IL</p> <p>Completed an IOS app project aimed to help stroke patients recover faster with a team of 4. Our aim was to give the patients an app that could alleviate the Physical Therapists' workload so that more patients could do the exercises at a time. Our app uses motion sensors within the phone to give active directions on how to do each exercise, aiming to help the patient perform the exercises with little supervision, or with no supervision at all. We successfully delivered our app to our client, which is actively being used by the patients.</p>",
+		"client" : "Client Communication Executive",
 		"url" : "",
 		"photos" : ["images/portfolio/projects/MyHomePT.jpg"]
 	},
 	"4" : {
 		"title" : "Presto",
-		"description" : "<p>Device to help people on wheelchairs press elevator buttons</p> <p>Gained workshop skills</p>",
-		"client" : "Class Project",
+		"description" : "<p>Evanston, IL</p> <p>Worked in a team of 4 to create a product that would help people on a wheelchair reach the elevator buttons. Gained workshop skills such as using mill and lathe. My team received Communication Award from Segal Instute of Design for my team's success in communicating with the client and understanding the users' needs.</p>",
+		"client" : "Project Manager",
 		"url" : "",
 		"photos" : ["images/portfolio/projects/Presto.jpg", "images/portfolio/projects/PRESTO.png"]
 	},
 	"5" : {
 		"title" : "SANTOR-SHERPA Engineering",
-		"description" : "<p>Report app</p> <p>translator</p>",
-		"client" : "Engineering Internship",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Created a program with GUI on MATLAB to create a pdf report of an employee's performance automatically by reading the records from Excel spreadsheets. Also worked as an English-French translator in the meetings to improve the communication between my company and Peugeot.</p>",
+		"client" : "Intern Engineer, Translator",
 		"url" : "https://www.sherpa-eng.com/",
 		"photos" : ["images/portfolio/internships/SANTOR.jpg"]
 	},
 	"6" : {
 		"title" : "FIGES Advanced Engineering Solutions",
-		"description" : "<p>Car model on Simulink</p> <p>Simulated model to run performance tests</p>",
-		"client" : "Engineering Internship",
+		"description" : "<p>Istanbul, TURKEY</p> <p>At one of Turkey's top technology company, created a physically accurate model of Toyota's new hybrid car C-HR in Simulink, using Stateflow and Simscape. This model enabled my company to run performance tests, such as gas consumption and motor's power generation, in minutes, without being have to take the car on the road. Tested the car on the road and researched the car's data extensively to validate the model, proving that the model was %95 accurate.</p>",
+		"client" : "Intern, Software Engineer",
 		"url" : "http://www.figes.com.tr/en/home/",
 		"photos" : ["images/portfolio/internships/FIGES.jpg"]
 	},
 	"7" : {
 		"title" : "Iletisim Yazilim Industrial Software Development",
-		"description" : "<p>Reduced hardware costs</p> <p>Automated job assignment procedure for employees in an car factory</p>",
-		"client" : "Engineering Internship",
+		"description" : "<p>Bursa, TURKEY</p> <p>Researched Raspberry Pi's potential usages in the automative industry. Created a program on the small computer using Python to automate the process of assigning tasks to both machines and employees. The usage of Raspberry Pi instead of PCs reduced the hardware costs by as much as %30.</p>",
+		"client" : "Intern, Software Engineer",
 		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
 		"photos" : ["images/portfolio/internships/iletisim.jpg"]
 	},
 	"8" : {
 		"title" : "Iletisim Yazilim Industrial Software Development",
-		"description" : "<p>Automation algorithm to use laser cutter</p> <p>car part manufacturing</p>",
-		"client" : "Engineering Internship",
+		"description" : "<p>Bursa, TURKEY</p> <p>Using Visual Basic, programmed an automation software where you could draw shapes accurately with given parameters, and cut those shapes optimally from sheet metal, wasting minumum amount of metal, to be used in cars.</p>",
+		"client" : "Intern, Software Engineer",
 		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
 		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
 	},
 	"11" : {
 		"title" : "IEEE at Northwestern",
-		"description" : "<p>Member of Mobile App Development Team</p> <p>working on Tagalong</p>",
-		"client" : "Campus Involvement",
+		"description" : "<p>Evanston, IL</p> <p>Member of internationally acknowledged computer science organization IEEE. Working in the Mobile App Development Team to create Tagalong App, a location based safety app, both for IOS and Android.</p>",
+		"client" : "Member of Mobile App Development Team in IEEE",
 		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
 	},
 	"12" : {
 		"title" : "NUSOLAR",
-		"description" : "<p>Member of Northwestern University Solar Car Team</p> <p>Software developer in telemetry team</p>",
-		"client" : "Campus Involvement",
+		"description" : "<p>Evanston, IL</p> <p>Software developer in Northwestern University Solar Car Team's Telemetry Team. Developed the car's communication protocol, so that the ground team would be able to get live feedback from the car during the race. Used Visual Basic to formulate the data received from CANBUS, and used TCP protocols to send the data to a remote computer.</p>",
+		"client" : "Software Developer in Telemetry Team",
 		"url" : "https://nusolar.org/",
 		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
 	},
 	"13" : {
 		"title" : "TURGOK",
-		"description" : "<p>Volunteered at Turkey's Library for the Visually Disabled</p> <p>Improved communication skills.</p>",
+		"description" : "<p>Izmir, TURKEY</p> <p>Volunteered at Turkey's Library for the Visually Disabled. Helped create audio books as well as copying the books to computer to be printed in Braille. Contacted many visually impaired members of the library, both on the phone and in person to their needs and to improve the facilities of the library accordingly.</p>",
 		"client" : "Volunteer",
 		"url" : "https://www.turgok.org/en",
 		"photos" : ["images/portfolio/extracurricular/TURGOK.jpg"]
 	},
 	"14" : {
 		"title" : "Amateur Rocketry",
-		"description" : "<p>I've been building amateur rockets</p> <p>Software developer in telemetry team</p>",
-		"client" : "Hobbies",
+		"description" : "<p>Bursa, TURKEY</p> <p>My fascination with space and rockets led me to launched 13 amateur rockets with my friends.</p>",
+		"client" : "Hobby",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
 	},
 	"17" : {
 		"title" : "Piano",
-		"description" : "<p>I've been playing piano</p> <p>--</p>",
+		"description" : "<p>Anywhere, Everywere</p> <p>Learned how to play piano out of curiosity, and have been playing for 5 years now. Played many classical and popular pieces along the way.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
 	},
 	"18" : {
 		"title" : "Rubik's Cube",
-		"description" : "<p>I've been solving Rubik's Cube.</p> <p>--</p>",
+		"description" : "<p>Anywhere, Everywhere</p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Entered a tournement once in Istanbul.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
 	},
 	"19" : {
 		"title" : "Basketball",
-		"description" : "<p>I've been playing basketball</p> <p>--</p>",
+		"description" : "<p>Anywhere, Everywhere</p> <p>I enjoy playing basketball on my free time.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
+	},
+	"22" : {
+		"title" : "3D Design",
+		"description" : "<p>Istanbul, TURKEY</p> <p>I enjoy playing basketball on my free time.</p>",
+		"client" : "3D Design and Programming Certificates",
+		"url" : "",
+		"photos" : ["images/portfolio/awards/design.jpg"]
 	}
 }

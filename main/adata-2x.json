@@ -104,11 +104,11 @@
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
 	},
-	"22" : {
+	"20" : {
 		"title" : "3D Design",
 		"description" : "<p>Istanbul, TURKEY</p> <p>I enjoy playing basketball on my free time.</p>",
-		"client" : "3D Design and Progr",
+		"client" : "3D Design and Programming Certificates",
 		"url" : "",
-		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
+		"photos" : ["images/portfolio/awards/design.jpg"]
 	}
 }

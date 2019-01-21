@@ -184,6 +184,7 @@
         init: function() {
             this.$number = this.$element.find('.' + this.classes.number);
             this.$content = this.$element.find('.' + this.classes.content);
+
             this.size = this.options.size;
             this.width = this.size;
             this.height = this.size;
@@ -251,7 +252,6 @@
             }
 
             this.bar_goal = n;
-
             var width = this.size,
                 height = this.size,
                 cx = width / 2,

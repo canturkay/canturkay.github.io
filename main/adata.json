@@ -18,7 +18,7 @@
 		"description" : "<p>Evanston, IL</p> <p>Completed an IOS app project aimed to help stroke patients recover faster with a team of 4. Our aim was to give the patients an app that could alleviate the Physical Therapists' workload so that more patients could do the exercises at a time. Our app uses motion sensors within the phone to give active directions on how to do each exercise, aiming to help the patient perform the exercises with little supervision, or with no supervision at all. We successfully delivered our app to our client, which is actively being used by the patients.</p>",
 		"client" : "Client Communication Executive",
 		"url" : "https://design.northwestern.edu/",
-		"photos" : ["images/portfolio/projects/MyHomePT.jpg"]
+		"photos" : ["images/portfolio/projects/MyHomePT.jpg", "images/portfolio/projects/MyHomePT.png"]
 	},
 	"4" : {
 		"title" : "Presto",
@@ -79,7 +79,7 @@
 	"12" : {
 		"title" : "Amateur Rocketry",
 		"description" : "<p>Bursa, TURKEY</p> <p>My fascination with space and rockets led me to launched 13 amateur rockets with my friends.</p>",
-		"client" : "Hobby",
+		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
 	},

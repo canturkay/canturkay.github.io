@@ -24,6 +24,43 @@ if (scrollWidth === undefined) {
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------*/
+var i_type = 10;
+var k_type = 0;
+var writing = false;
+var txt = ['CAN TURKAY', 'A PROGRAMMER', 'A DESIGNER', 'A '];
+var speed = 150;
+
+function typeWriter() {
+  if (i_type%10 > 3){
+    document.getElementById("type_cursor").style.visibility = "hidden";
+  }
+  else{
+    document.getElementById("type_cursor").style.visibility = "visible";
+  }
+  if (i_type < txt[k_type].length && writing) {
+    document.getElementById("typewriter").innerHTML += txt[k_type].charAt(i_type);
+    i_type++;
+    setTimeout(typeWriter, speed);
+  }
+  else if (i_type > 0 && !writing){
+    document.getElementById("typewriter").innerHTML = document.getElementById("typewriter").innerHTML.substring(0, document.getElementById("typewriter").innerHTML.length - 1);
+    i_type--;
+    setTimeout(typeWriter, speed/2);
+  }
+  else if (i_type == txt[k_type].length){
+    writing = false;
+    document.getElementById("type_cursor").style.visibility = "hidden";
+    setTimeout(typeWriter, speed*10);
+  }
+  else if (i_type == 0){
+    k_type += 1;
+    writing = true;
+    setTimeout(typeWriter, speed);
+  }
+  if (k_type >= txt.length){
+    k_type = 0;
+  }
+}
 
 $(document).ready(function(){
 
@@ -37,7 +74,7 @@ $(document).ready(function(){
   else{
     $('body').addClass('no-touch-device');
   }
-
+  setTimeout(typeWriter, 6000);
   /* primary-banner
   -----------------------------------------------------------------*/
   if($(".heightPrimaryBanner").length>0) {

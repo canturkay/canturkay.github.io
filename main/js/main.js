@@ -74,7 +74,6 @@ $(document).ready(function(){
   else{
     $('body').addClass('no-touch-device');
   }
-  setTimeout(typeWriter, 6000);
   /* primary-banner
   -----------------------------------------------------------------*/
   if($(".heightPrimaryBanner").length>0) {
@@ -1106,6 +1105,10 @@ $( window ).load(function() {
       allCount = allCount + Number($(this).html());
     });
     $('.count-shared .quantity').html(allCount);
+  }
+
+  if($(".tlttt").length>0){
+    setTimeout(typeWriter, 2000);
   }
 
   if($(".tlt").length>0) {

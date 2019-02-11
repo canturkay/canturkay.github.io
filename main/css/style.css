@@ -3407,6 +3407,23 @@ button:active:hover {
   color: #777777;
 }
 
+#downlresume{
+  color:rgb(205, 51, 51);
+  font-size:14px;
+  box-sizing: border-box;
+  /*border: 2px solid rgb(205, 51, 51);
+  border-radius:15px;*/
+  padding:7px;
+  margin:15px;
+  transition: 0.3s;
+}
+
+#downlresume:hover{
+  transition: 0.3s;
+  color:rgb(240, 71, 71);
+  /*border-radius: 25px;*/
+}
+
 /* line 3, ../sass/_primary-menu.scss */
 .header .primary a {
   line-height: 30px;

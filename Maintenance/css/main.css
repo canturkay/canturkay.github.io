@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 Project:  ComingSoon
-Version:  
-Last change:  
+Version:
+Last change:
 Assigned to:  Bach Le
-Primary use:  
+Primary use:
 -------------------------------------------------------------------*/
 
 
@@ -13,27 +13,27 @@ Primary use:
 
 @font-face {
   font-family: Poppins-Regular;
-  src: url('../fonts/Poppins/Poppins-Regular.ttf'); 
+  src: url('../fonts/Poppins/Poppins-Regular.ttf');
 }
 
 @font-face {
   font-family: Poppins-Bold;
-  src: url('../fonts/Poppins/Poppins-Bold.ttf'); 
+  src: url('../fonts/Poppins/Poppins-Bold.ttf');
 }
 
 @font-face {
   font-family: Lato-Regular;
-  src: url('../fonts/Lato/Lato-Regular.ttf'); 
+  src: url('../fonts/Lato/Lato-Regular.ttf');
 }
 
 @font-face {
   font-family: Lato-Light;
-  src: url('../fonts/Lato/Lato-Light.ttf'); 
+  src: url('../fonts/Lato/Lato-Light.ttf');
 }
 
 @font-face {
   font-family: Lato-Bold;
-  src: url('../fonts/Lato/Lato-Bold.ttf'); 
+  src: url('../fonts/Lato/Lato-Bold.ttf');
 }
 
 
@@ -49,6 +49,26 @@ Primary use:
 [ Form ]*/
 
 /*---------------------------------------------*/
+.fa-cloud-download:before {
+  content: "\f0ed";
+}
+
+#downlresume{
+  background-color: rgba(205, 51, 51, 0.4);
+  color:white;
+  font-size:18px;
+  box-sizing: border-box;
+  border-radius:40px;
+  padding:20px;
+  margin-bottom:40px;
+  transition: 0.4s;
+}
+
+#downlresume:hover{
+  background-color: rgba(205, 51, 51, 0.9);
+  transition: 0.4s;
+}
+
 .wrap-input100 {
   position: relative;
   max-width: calc(100% - 10px);
@@ -207,7 +227,7 @@ Primary use:
   font-family: Lato-Regular;
   font-size: 12px;
   line-height: 1;
-  color: #846add;
+  color: rgb(205, 51, 51);
   text-transform: uppercase;
 }
 
@@ -215,7 +235,7 @@ Primary use:
   font-family: Lato-Bold;
   font-size: 15px;
   line-height: 1.4;
-  color: #846add;
+  color: rgb(205, 51, 51);
 }
 
 .s2-txt3 {
@@ -320,7 +340,7 @@ Primary use:
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 .where1 {
   margin: 0 5px 20px 5px;
@@ -329,7 +349,7 @@ Primary use:
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -356,7 +376,7 @@ Primary use:
 /*---------------------------------------------*/
 .how-btn1 {
   border-radius: 35px;
-  background-color: #846add;
+  background-color: rgb(205, 51, 51);
   padding-right: 20px;
   padding-left: 20px;
 }
@@ -495,7 +515,7 @@ Primary use:
   .w-full-sm {width: 100%;}
   /*---------------------------------------------*/
 
-  
+
 }
 
 

@@ -27,7 +27,7 @@ if (scrollWidth === undefined) {
 var i_type = 10;
 var k_type = 0;
 var writing = false;
-var txt = ['CAN TURKAY', 'A PROGRAMMER', 'A DESIGNER', 'A '];
+var txt = ['CAN TURKAY', 'A PROGRAMMER', 'A DESIGNER', 'A STUDENT'];
 var speed = 150;
 
 function typeWriter() {
@@ -55,10 +55,13 @@ function typeWriter() {
   else if (i_type == 0){
     k_type += 1;
     writing = true;
-    setTimeout(typeWriter, speed);
-  }
-  if (k_type >= txt.length){
-    k_type = 0;
+    if (k_type >= txt.length){
+      k_type = 0;
+      setTimeout(typeWriter, speed*4);
+    }
+    else{
+      setTimeout(typeWriter, speed);
+    }
   }
 }
 

@@ -1,9 +1,9 @@
 {
 	"1" : {
-		"title" : "HYMN",
-		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review rating website with a team of 5. Our aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services.</p>",
+		"title" : "hymn",
+		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review and rating website with a team of 4. Our aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services. Currently, our platform has over 2 million songs, 200 thousand albums and 20 thousand artists.</p>",
 		"client" : "Co-Founder of a Startup, Technical Leader",
-		"url" : "",
+		"url" : "http://hymnco.com/",
 		"photos" : ["images/portfolio/projects/HYMN.jpg"]
 	},
 	"2" : {

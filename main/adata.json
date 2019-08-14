@@ -120,9 +120,16 @@
 	},
 	"18" : {
 		"title" : "DUCKT",
-		"description" : "<p>Istanbul, TURKEY</p> <p>Developed the software for a scooter charging station.</p>",
-		"client" : "Projects",
-		"url" : "https://www.instagram.com/duckt.app/?hl=en",
-		"photos" : ["images/portfolio/internships/DUCKT_logo.png, images/portfolio/internships/DUCKT.mp4"]
+		"description" : "<p>Istanbul, TURKEY</p> <p>Lead the software development process for the scooter charging station project. Built an android and IOS app, a flask web server for processing requests and information, and a Raspberry Pi at each station for locking and charging the scooters. Made the communication between the stations and the main server secure by building a VPN server on an EC2 instance on AWS. The mobile app is used to unlock your scooter from the station and to view the stations around your location on a map. The web server contains the databases that hold all the information about the DUCKT stations and the users. The Raspberry Pi's at each location contain RFID readers for identifying the scooter that docked into the station, lock mechanisms for locking and unlocking the scooters, and some other sensors (ie. temperature and humidity sensors) for monitoring the station in real time.</p>",
+		"client" : "Software Developer",
+		"url" : "",
+		"photos" : ["images/portfolio/awards/design.jpg"]
+	},
+	"19" : {
+		"title" : "Protecting Kaz (Ida) Mountains",
+		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against searching gold in the mythologic Ida Mountains.</p>",
+		"client" : "Web Developer",
+		"url" : "http://www.kazdaglarisavunmasi.com/",
+		"photos" : ["images/portfolio/extracurricular/idasavunmasi.jpg"]
 	}
 }

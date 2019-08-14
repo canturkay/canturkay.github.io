@@ -42,32 +42,32 @@
 		"photos" : ["images/portfolio/internships/FIGES.jpg"]
 	},
 	"7" : {
-		"title" : "Iletisim Yazilim Industrial Software Development",
-		"description" : "<p>Bursa, TURKEY</p> <p>Researched Raspberry Pi's potential usages in the automative industry. Created a program on the small computer using Python to automate the process of assigning tasks to both machines and employees. The usage of Raspberry Pi instead of PCs reduced the hardware costs by as much as %30.</p>",
-		"client" : "Intern, Software Engineer",
-		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
-		"photos" : ["images/portfolio/internships/iletisim.jpg"]
-	},
-	"8" : {
-		"title" : "Iletisim Yazilim Industrial Software Development",
-		"description" : "<p>Bursa, TURKEY</p> <p>Using Visual Basic, programmed an automation software where you could draw shapes accurately with given parameters, and cut those shapes optimally from sheet metal, wasting minumum amount of metal, to be used in cars.</p>",
-		"client" : "Intern, Software Engineer",
-		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
-		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
-	},
-	"9" : {
 		"title" : "IEEE at Northwestern",
 		"description" : "<p>Evanston, IL</p> <p>Member of internationally acknowledged computer science organization IEEE. Working in the Mobile App Development Team to create Tagalong App, a location based safety app, both for IOS and Android.</p>",
 		"client" : "Member of Mobile App Development Team in IEEE",
 		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
 	},
-	"10" : {
+	"8" : {
 		"title" : "NUSOLAR",
 		"description" : "<p>Evanston, IL</p> <p>Software developer in Northwestern University Solar Car Team's Telemetry Team. Developed the car's communication protocol, so that the ground team would be able to get live feedback from the car during the race. Used Visual Basic to formulate the data received from CANBUS, and used TCP protocols to send the data to a remote computer.</p>",
 		"client" : "Software Developer in Telemetry Team",
 		"url" : "https://nusolar.org/",
 		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
+	},
+	"9" : {
+		"title" : "Iletisim Yazilim Industrial Software Development",
+		"description" : "<p>Bursa, TURKEY</p> <p>Researched Raspberry Pi's potential usages in the automative industry. Created a program on the small computer using Python to automate the process of assigning tasks to both machines and employees. The usage of Raspberry Pi instead of PCs reduced the hardware costs by as much as %30.</p>",
+		"client" : "Intern, Software Engineer",
+		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
+		"photos" : ["images/portfolio/internships/iletisim.jpg"]
+	},
+	"10" : {
+		"title" : "Iletisim Yazilim Industrial Software Development",
+		"description" : "<p>Bursa, TURKEY</p> <p>Using Visual Basic, programmed an automation software where you could draw shapes accurately with given parameters, and cut those shapes optimally from sheet metal, wasting minumum amount of metal, to be used in cars.</p>",
+		"client" : "Intern, Software Engineer",
+		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
+		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
 	},
 	"11" : {
 		"title" : "TURGOK",
@@ -117,5 +117,12 @@
 		"client" : "3D Design and Programming Certificates",
 		"url" : "",
 		"photos" : ["images/portfolio/awards/design.jpg"]
+	},
+	"18" : {
+		"title" : "DUCKT",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Developed the software for a scooter charging station.</p>",
+		"client" : "Projects",
+		"url" : "https://www.instagram.com/duckt.app/?hl=en",
+		"photos" : ["images/portfolio/internships/DUCKT_logo.png, images/portfolio/internships/DUCKT.mp4"]
 	}
 }

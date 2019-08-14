@@ -92,7 +92,7 @@
 	},
 	"14" : {
 		"title" : "Rubik's Cube",
-		"description" : "<p>Anywhere, Everywhere</p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Entered a tournement once in Istanbul.</p>",
+		"description" : "<p>Anywhere, Everywhere</p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Participated in a tournement once in Istanbul.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
@@ -123,7 +123,7 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>Lead the software development process for the scooter charging station project. Built an android and IOS app, a flask web server for processing requests and information, and a Raspberry Pi at each station for locking and charging the scooters. Made the communication between the stations and the main server secure by building a VPN server on an EC2 instance on AWS. The mobile app is used to unlock your scooter from the station and to view the stations around your location on a map. The web server contains the databases that hold all the information about the DUCKT stations and the users. The Raspberry Pi's at each location contain RFID readers for identifying the scooter that docked into the station, lock mechanisms for locking and unlocking the scooters, and some other sensors (ie. temperature and humidity sensors) for monitoring the station in real time.</p>",
 		"client" : "Software Developer",
 		"url" : "",
-		"photos" : ["images/portfolio/awards/DUCKT.jpg","images/portfolio/awards/DUCKT.mp4"]
+		"photos" : ["images/portfolio/internships/DUCKT.jpg","images/portfolio/internships/DUCKT.mp4"]
 	},
 	"19" : {
 		"title" : "Protecting Kaz (Ida) Mountains",

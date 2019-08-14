@@ -10807,6 +10807,10 @@ header.top-menu {
   color: #303030;
   margin-top:-1px;
 }
+
+.dividing-block.sample-2 .row {
+  margin-bottom: 50px;
+}
 /* line 5263, ../sass/style.scss */
 .dividing-block.sample-2 h5 {
   margin-bottom: 24px;

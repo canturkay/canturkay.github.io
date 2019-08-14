@@ -127,9 +127,9 @@
 	},
 	"19" : {
 		"title" : "Protecting Kaz (Ida) Mountains",
-		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against searching gold in the mythologic Ida Mountains.</p>",
+		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against a Canadian company searching gold in the mythologic Ida Mountains. The company, Alamos Gold, has already cut off more than 200,000 trees in the mountains, although they have only reported 13,400. This process destroying the natural habitat in these mythological mountains as well as the natural beauty. Our concern is that, during the extraction of the gold from the soil, the company will be using cyanide, which is a dangerous chemical both for humans and animals. Also, the mining area is less than 10 kilometers away from the Çanakkale's Atikhisar Dam, the only water source for more than 300,000 people living in the city. I took part in these protests by building a website with Flask and Python to help our cause gain more recognition in the media. Currently, there are more than 2,000 protesters camping in the protest area. Within two weeks, by the end of August 2019, we are expecting this number to rise to over 4,000 since this mass deforestation is getting international recognition and since the hashtag #KazdaglariHepimizin is rising to be the highest trending in Turkey.</p>",
 		"client" : "Web Developer",
 		"url" : "http://www.kazdaglarisavunmasi.com/",
-		"photos" : ["images/portfolio/extracurricular/idasavunmasi.jpg"]
+		"photos" : ["images/portfolio/extracurricular/idasavunmasi2.jpg", "images/portfolio/extracurricular/idasavunmasi3.jpg", "images/portfolio/extracurricular/idasavunmasi4.png"]
 	}
 }

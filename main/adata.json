@@ -113,16 +113,16 @@
 	},
 	"17" : {
 		"title" : "3D Design",
-		"description" : "<p>Istanbul, TURKEY</p> <p>I enjoy playing basketball on my free time.</p>",
-		"client" : "3D Design and Programming Certificates",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Received a certificate from Galatasaray University (one of Turkey's top ranked universities) after completing a 50 hour program. Learned how to design and print using Autodesk Fusion 360. Also programmed a micro:bit and mounted it on the car I designed to monitor the car's speed using the built-in sensors.</p>",
+		"client" : "3D Design, Programming and Robotics Certificate",
 		"url" : "",
 		"photos" : ["images/portfolio/awards/design.jpg"]
 	},
 	"18" : {
 		"title" : "DUCKT",
 		"description" : "<p>Istanbul, TURKEY</p> <p>Lead the software development process for the scooter charging station project. Built an android and IOS app, a flask web server for processing requests and information, and a Raspberry Pi at each station for locking and charging the scooters. Made the communication between the stations and the main server secure by building a VPN server on an EC2 instance on AWS. The mobile app is used to unlock your scooter from the station and to view the stations around your location on a map. The web server contains the databases that hold all the information about the DUCKT stations and the users. The Raspberry Pi's at each location contain RFID readers for identifying the scooter that docked into the station, lock mechanisms for locking and unlocking the scooters, and some other sensors (ie. temperature and humidity sensors) for monitoring the station in real time.</p>",
-		"client" : "Software Developer",
-		"url" : "",
+		"client" : "Frontend and Backend Developer",
+		"url" : "https://www.instagram.com/duckt.app/",
 		"photos" : ["images/portfolio/internships/DUCKT.jpg","images/portfolio/internships/DUCKT.gif"]
 	},
 	"19" : {

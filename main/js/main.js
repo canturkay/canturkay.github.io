@@ -27,7 +27,7 @@ if (scrollWidth === undefined) {
 var i_type = 10;
 var k_type = 0;
 var writing = false;
-var txt = ['CAN TURKAY', 'A PROGRAMMER', 'A DESIGNER', 'A STUDENT'];
+var txt = ['CAN TÜRKAY', 'A PROGRAMMER', 'A DEVELOPER', 'A DESIGNER', 'A STUDENT', 'A ROCKETRY ENTHUSIAST'];
 var speed = 150;
 
 function typeWriter() {

@@ -5108,6 +5108,7 @@ header.top-menu {
 /* line 614, ../sass/style.scss */
 .primary-banner {
   width: 100%;
+  min-height: 410px;
 }
 /* line 616, ../sass/style.scss */
 .primary-banner h1 {
@@ -5342,9 +5343,15 @@ header.top-menu {
 }
 /* About
 ---------------------------------------------------------------*/
+#about-us element{
+  height: 100%;
+}
 /* line 805, ../sass/style.scss */
 #about-us .background .layer {
   background-color: white;
+}
+#about-us .table-row{
+  height: 100%;
 }
 /* line 810, ../sass/style.scss */
 #about-us .table-block h1 {

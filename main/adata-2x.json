@@ -4,6 +4,7 @@
 		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review and rating website with a team of 4. Our aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services. Currently, our platform has over 2 million songs, 200 thousand albums and 20 thousand artists.</p>",
 		"client" : "Co-Founder of a Startup, Technical Leader",
 		"url" : "http://hymnco.com/",
+		"date": "September 2018 - Present",
 		"photos" : ["images/portfolio/projects/HYMN.jpg"]
 	},
 	"2" : {
@@ -11,6 +12,7 @@
 		"description" : "<p>Evanston, IL</p> <p>Working on a location based app to help people stay safe while commuting. In a team of 6, I take care of Android side of the project.</p>",
 		"client" : "Android App Developer",
 		"url" : "http://ieee.northwestern.edu/",
+		"date": "September 2018 - Present",
 		"photos" : ["images/portfolio/projects/tagalong.jpg"]
 	},
 	"3" : {
@@ -18,20 +20,23 @@
 		"description" : "<p>Evanston, IL</p> <p>Completed an IOS app project aimed to help stroke patients recover faster with a team of 4. Our aim was to give the patients an app that could alleviate the Physical Therapists' workload so that more patients could do the exercises at a time. Our app uses motion sensors within the phone to give active directions on how to do each exercise, aiming to help the patient perform the exercises with little supervision, or with no supervision at all. We successfully delivered our app to our client, which is actively being used by the patients.</p>",
 		"client" : "Client Communication Executive",
 		"url" : "https://design.northwestern.edu/",
+		"date": "April 2018 – June 2018",
 		"photos" : ["images/portfolio/projects/MyHomePT.jpg", "images/portfolio/projects/MyHomePT.png"]
 	},
 	"4" : {
-		"title" : "Presto",
+		"title" : "PRESTO",
 		"description" : "<p>Evanston, IL</p> <p>Worked in a team of 4 to create a product that would help people on a wheelchair reach the elevator buttons. Gained workshop skills such as using mill and lathe. My team received Communication Award from Segal Design Institute for my team's success in communicating with the client and understanding the users' needs.</p>",
 		"client" : "Project Manager",
 		"url" : "https://design.northwestern.edu/",
+		"date": "January 2018 – March 2018",
 		"photos" : ["images/portfolio/projects/Presto.jpg", "images/portfolio/projects/PRESTO.png"]
 	},
 	"5" : {
-		"title" : "SANTOR-SHERPA Engineering",
+		"title" : "SHERPA - SANTOR Engineering",
 		"description" : "<p>Istanbul, TURKEY</p> <p>Created a program with GUI on MATLAB to create a pdf report of an employee's performance automatically by reading the records from Excel spreadsheets. Also worked as an English-French translator in the meetings to improve the communication between my company and Peugeot.</p>",
 		"client" : "Intern Engineer, Translator",
 		"url" : "https://www.sherpa-eng.com/",
+		"date": "September 2018",
 		"photos" : ["images/portfolio/internships/SANTOR.jpg"]
 	},
 	"6" : {
@@ -39,13 +44,15 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>At one of Turkey's top technology company, created a physically accurate model of Toyota's new hybrid car C-HR in Simulink, using Stateflow and Simscape. This model enabled my company to run performance tests, such as gas consumption and motor's power generation, in minutes, without being have to take the car on the road. Tested the car on the road and researched the car's data extensively to validate the model, proving that the model was %95 accurate.</p>",
 		"client" : "Intern, Software Engineer",
 		"url" : "http://www.figes.com.tr/en/home/",
+		"date": "July 2018 – August 2018",
 		"photos" : ["images/portfolio/internships/FIGES.jpg"]
 	},
 	"7" : {
 		"title" : "IEEE at Northwestern",
-		"description" : "<p>Evanston, IL</p> <p>Technical Director of internationally acknowledged electrical engineering organization IEEE's Northwestern chapter. Responsible for directing the Project Showcase, which is the annual competition between more than 20 software and hardware development teams, as well as organizing hackathons and coordinating the project teams under IEEE.</p>",
+		"description" : "<p>Evanston, IL</p> <p>Technical Director of internationally acknowledged electrical engineering organization IEEE's Northwestern chapter as of April 2019. Responsible for directing the Project Showcase, which is the annual competition between more than 20 software and hardware development teams, as well as organizing hackathons and coordinating the project teams under IEEE.</p>",
 		"client" : "IE3 Technical Program Director & Hack Night Coordinator",
 		"url" : "http://ieee.northwestern.edu/",
+		"date": "September 2018 - Present",
 		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
 	},
 	"8" : {
@@ -53,6 +60,7 @@
 		"description" : "<p>Evanston, IL</p> <p>Software developer in Northwestern University Solar Car Team's Telemetry Team. Developed the car's communication protocol, so that the ground team would be able to get live feedback from the car during the race. Used Visual Basic to formulate the data received from CANBUS, and used TCP protocols to send the data to a remote computer.</p>",
 		"client" : "Software Developer in Telemetry Team",
 		"url" : "https://nusolar.org/",
+		"date": "September 2017 – June 2018",
 		"photos" : ["images/portfolio/extracurricular/NUSOLAR.jpg"]
 	},
 	"9" : {
@@ -60,6 +68,7 @@
 		"description" : "<p>Bursa, TURKEY</p> <p>Researched Raspberry Pi's potential usages in the automative industry. Created a program on the small computer using Python to automate the process of assigning tasks to both machines and employees. The usage of Raspberry Pi instead of PCs reduced the hardware costs by as much as %30.</p>",
 		"client" : "Intern, Software Engineer",
 		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
+		"date": "August 2016",
 		"photos" : ["images/portfolio/internships/iletisim.jpg"]
 	},
 	"10" : {
@@ -67,6 +76,7 @@
 		"description" : "<p>Bursa, TURKEY</p> <p>Using Visual Basic, programmed an automation software where you could draw shapes accurately with given parameters, and cut those shapes optimally from sheet metal, wasting minumum amount of metal, to be used in cars.</p>",
 		"client" : "Intern, Software Engineer",
 		"url" : "http://www.iletisimyazilim.com/en-EN/default.asp",
+		"date": "July 2014",
 		"photos" : ["images/portfolio/internships/iletisim2.jpg"]
 	},
 	"11" : {
@@ -74,6 +84,7 @@
 		"description" : "<p>Izmir, TURKEY</p> <p>Volunteered at Turkey's Library for the Visually Disabled. Helped create audio books as well as copying the books to computer to be printed in Braille. Contacted many visually impaired members of the library, both on the phone and in person to their needs and to improve the facilities of the library accordingly.</p>",
 		"client" : "Volunteer",
 		"url" : "https://www.turgok.org/en",
+		"date": "June 2016",
 		"photos" : ["images/portfolio/extracurricular/TURGOK.jpg"]
 	},
 	"12" : {
@@ -81,6 +92,7 @@
 		"description" : "<p>Bursa, TURKEY</p> <p>My fascination with space and rockets led me to launched 13 amateur rockets with my friends.</p>",
 		"client" : "Hobbies",
 		"url" : "",
+		"date": "2014 - Present",
 		"photos" : ["images/portfolio/extracurricular/rocket.jpg"]
 	},
 	"13" : {
@@ -88,6 +100,7 @@
 		"description" : "<p></p> <p>Learned how to play piano out of curiosity, and have been playing for 5 years now. Played many classical and popular pieces along the way.</p>",
 		"client" : "Hobbies",
 		"url" : "",
+		"date": "2015 - Present",
 		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
 	},
 	"14" : {
@@ -95,6 +108,7 @@
 		"description" : "<p></p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Participated in a tournement once in Istanbul.</p>",
 		"client" : "Hobbies",
 		"url" : "",
+		"date": "2015 - Present",
 		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
 	},
 	"15" : {
@@ -102,6 +116,7 @@
 		"description" : "<p></p> <p>I enjoy playing basketball on my free time.</p>",
 		"client" : "Hobbies",
 		"url" : "",
+		"date": "Always",
 		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
 	},
 	"16" : {
@@ -109,6 +124,7 @@
 		"description" : "<p>Evanston, IL</p> <p>For the project Presto, received the Communication Award from Segal Design Institute for my team's exceptional performance in communicating with the client and understanding the needs of the users.</p>",
 		"client" : "Award from Segal Design Institute",
 		"url" : "https://design.northwestern.edu/",
+		"date": "March 2018",
 		"photos" : ["images/portfolio/awards/design.jpg"]
 	},
 	"17" : {
@@ -116,6 +132,7 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>Received a certificate from Galatasaray University (one of Turkey's top ranked universities) after completing a 50 hour program. Learned how to design and print using Autodesk Fusion 360. Also programmed a micro:bit and mounted it on the car I designed to monitor the car's speed using the built-in sensors.</p>",
 		"client" : "3D Design, Programming and Robotics Certificate",
 		"url" : "",
+		"date": "2017",
 		"photos" : ["images/portfolio/awards/design.jpg"]
 	},
 	"18" : {
@@ -123,6 +140,7 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>Lead the software development process for the scooter charging station project. Built an android and IOS app, a flask web server for processing requests and information, and a Raspberry Pi at each station for locking and charging the scooters. Made the communication between the stations and the main server secure by building a VPN server on an EC2 instance on AWS. The mobile app is used to unlock your scooter from the station and to view the stations around your location on a map. The web server contains the databases that hold all the information about the DUCKT stations and the users. The Raspberry Pi's at each location contain RFID readers for identifying the scooter that docked into the station, lock mechanisms for locking and unlocking the scooters, and some other sensors (ie. temperature and humidity sensors) for monitoring the station in real time.</p>",
 		"client" : "Frontend and Backend Developer",
 		"url" : "https://www.instagram.com/duckt.app/",
+		"date": "June 2019 - July 2019",
 		"photos" : ["images/portfolio/internships/DUCKT.jpg","images/portfolio/internships/DUCKT.gif"]
 	},
 	"19" : {
@@ -130,6 +148,7 @@
 		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against a Canadian company searching gold in the mythologic Ida Mountains. The company, Alamos Gold, has already cut off more than 200,000 trees in the mountains, although they have only reported 13,400. This process destroying the natural habitat in these mythological mountains as well as the natural beauty. Our concern is that, during the extraction of the gold from the soil, the company will be using cyanide, which is a dangerous chemical both for humans and animals. Also, the mining area is less than 10 kilometers away from the Çanakkale's Atikhisar Dam, the only water source for more than 300,000 people living in the city. I took part in these protests by building a website with Flask and Python to help our cause gain more recognition in the media. Currently, there are more than 2,000 protesters camping in the protest area. Within two weeks, by the end of August 2019, we are expecting this number to rise to over 4,000 since this mass deforestation is getting international recognition and since the hashtag #KazdaglariHepimizin is rising to be the highest trending in Turkey.</p>",
 		"client" : "Web Developer",
 		"url" : "http://www.kazdaglarisavunmasi.com/",
+		"date": "June 2019 - July 2019",
 		"photos" : ["images/portfolio/extracurricular/idasavunmasi2.jpg", "images/portfolio/extracurricular/idasavunmasi3.jpg", "images/portfolio/extracurricular/idasavunmasi4.png"]
 	},
 	"20" : {
@@ -137,6 +156,7 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>Worked in a team of 4 data scientists and 4 computer scientists to build a machine learning model for predicting the probability of default for a given credit application. Developed methods for cleaning the data and filling in missing values, and created a web-based platform, named Cerebrum, for automating the data cleaning, outlier detection, model selection, model training and model deployment processes. The platform aims to help the user, who is a data scientist with limited programming knowledge, prepare the training data much faster by applying the most common techniques used in data preparation with the click of a button. Cerebrum is esentially an auto-ML application that walks the user through the whole process of developing the machine learning model, from data preparation to model deployment.</p>",
 		"client" : "AI and Analytic Solutions Ass. Project Manager",
 		"url" : "",
+		"date": "August 2019 - September 2019",
 		"photos" : ["images/portfolio/internships/TEB.png"]
 	},
 	"21" : {
@@ -144,6 +164,7 @@
 		"description" : "<p>Istanbul, TURKEY</p> <p>Received the DELF/DALF C1 Certificate from French National Education Ministry for my proficiency in the French language.</p>",
 		"client" : "Francophone",
 		"url" : "",
+		"date": "2016",
 		"photos" : ["images/portfolio/awards/delf.jpg"]
 	},
 	"22" : {
@@ -151,6 +172,7 @@
 		"description" : "<p></p> <p>I trade stocks in the market with my own earnings, aiming to gain experience in stock trading and to make some cash.</p>",
 		"client" : "Beginner Stock Trader",
 		"url" : "",
+		"date": "2017 - Present",
 		"photos" : ["images/portfolio/extracurricular/stock-trader.jpg"]
 	}
 }

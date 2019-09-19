@@ -51,12 +51,16 @@ jQuery(window).load(function(){
 		    html += '<div class="additional-info col-md-4 col-md-pull-8 col-sm-12">\
 		              <div class="text-box">\
 		                <div class="heading">'+data.client+'</div>\
+			              <div class="heading">'+data.date+'</div>\
 		                <div class="description">'+data.description+'</div>\
-		              </div>\
-		              <div class="link-box">\
-		                <div class="link"><a href="'+data.url+'">View online</a></div>\
-		              </div>\
-		            </div>';
+		              </div>';
+
+		   	if (data.url != ''){
+					html += '<div class="link-box">\
+			                <div class="link"><a href="'+data.url+'">View online</a></div>\
+			              </div>';
+				}
+		    html += '</div>';
 		  }
 
 		return html;

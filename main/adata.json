@@ -43,8 +43,8 @@
 	},
 	"7" : {
 		"title" : "IEEE at Northwestern",
-		"description" : "<p>Evanston, IL</p> <p>Member of internationally acknowledged computer science organization IEEE. Working in the Mobile App Development Team to create Tagalong App, a location based safety app, both for IOS and Android.</p>",
-		"client" : "Member of Mobile App Development Team in IEEE",
+		"description" : "<p>Evanston, IL</p> <p>Technical Director of internationally acknowledged electrical engineering organization IEEE's Northwestern chapter. Responsible for directing the Project Showcase, which is the annual competition between more than 20 software and hardware development teams, as well as organizing hackathons and coordinating the project teams under IEEE.</p>",
+		"client" : "IE3 Technical Program Director & Hack Night Coordinator",
 		"url" : "http://ieee.northwestern.edu/",
 		"photos" : ["images/portfolio/extracurricular/IEEE.jpg"]
 	},
@@ -85,21 +85,21 @@
 	},
 	"13" : {
 		"title" : "Piano",
-		"description" : "<p>Anywhere, Everywere</p> <p>Learned how to play piano out of curiosity, and have been playing for 5 years now. Played many classical and popular pieces along the way.</p>",
+		"description" : "<p></p> <p>Learned how to play piano out of curiosity, and have been playing for 5 years now. Played many classical and popular pieces along the way.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/piano.jpg"]
 	},
 	"14" : {
 		"title" : "Rubik's Cube",
-		"description" : "<p>Anywhere, Everywhere</p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Participated in a tournement once in Istanbul.</p>",
+		"description" : "<p></p> <p>Lerned how to solve Rubik's Cube from a friend 4 years ago, have been cubing since then. Participated in a tournement once in Istanbul.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/rubiks.jpg"]
 	},
 	"15" : {
 		"title" : "Basketball",
-		"description" : "<p>Anywhere, Everywhere</p> <p>I enjoy playing basketball on my free time.</p>",
+		"description" : "<p></p> <p>I enjoy playing basketball on my free time.</p>",
 		"client" : "Hobbies",
 		"url" : "",
 		"photos" : ["images/portfolio/extracurricular/basketball.jpg"]
@@ -131,5 +131,26 @@
 		"client" : "Web Developer",
 		"url" : "http://www.kazdaglarisavunmasi.com/",
 		"photos" : ["images/portfolio/extracurricular/idasavunmasi2.jpg", "images/portfolio/extracurricular/idasavunmasi3.jpg", "images/portfolio/extracurricular/idasavunmasi4.png"]
+	},
+	"20" : {
+		"title" : "Turkish Economy Bank",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Worked in a team of 4 data scientists and 4 computer scientists to build a machine learning model for predicting the probability of default for a given credit application. Developed methods for cleaning the data and filling in missing values, and created a web-based platform, named Cerebrum, for automating the data cleaning, outlier detection, model selection, model training and model deployment processes. The platform aims to help the user, who is a data scientist with limited programming knowledge, prepare the training data much faster by applying the most common techniques used in data preparation with the click of a button. Cerebrum is esentially an auto-ML application that walks the user through the whole process of developing the machine learning model, from data preparation to model deployment.</p>",
+		"client" : "AI and Analytic Solutions Ass. Project Manager",
+		"url" : "",
+		"photos" : ["images/portfolio/internships/TEB.png"]
+	},
+	"21" : {
+		"title" : "DELF/DALF C1",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Received the DELF/DALF C1 Certificate from French National Education Ministry for my proficiency in the French language.</p>",
+		"client" : "Francophone",
+		"url" : "",
+		"photos" : ["images/portfolio/awards/delf.jpg"]
+	},
+	"22" : {
+		"title" : "Stock Market",
+		"description" : "<p></p> <p>I trade stocks in the market with my own earnings, aiming to gain experience in stock trading and to make some cash.</p>",
+		"client" : "Beginner Stock Trader",
+		"url" : "",
+		"photos" : ["images/portfolio/extracurricular/stock-trader.jpg"]
 	}
 }

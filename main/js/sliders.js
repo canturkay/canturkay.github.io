@@ -55,7 +55,7 @@ jQuery(window).load(function(){
 		                <div class="description">'+data.description+'</div>\
 		              </div>';
 
-		   	if (data.url != ''){
+		   	if (data.url != ""){
 					html += '<div class="link-box">\
 			                <div class="link"><a href="'+data.url+'">View online</a></div>\
 			              </div>';

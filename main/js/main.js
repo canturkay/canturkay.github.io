@@ -31,7 +31,7 @@ var txt = ['CAN TÜRKAY', 'A PROGRAMMER', 'A DEVELOPER', 'AN ENGINEER', 'A STOCK
 var speed = 150;
 
 function typeWriter() {
-  if (i_type%10 > 3){
+  if (i_type%10 > 5){
     document.getElementById("type_cursor").style.visibility = "hidden";
   }
   else{

@@ -9,8 +9,8 @@
 	},
 	"2" : {
 		"title" : "Tagalong App",
-		"description" : "<p>Evanston, IL</p> <p>Working on a location based app to help people stay safe while commuting. In a team of 6, I take care of Android side of the project.</p>",
-		"client" : "Android App Developer",
+		"description" : "<p>Evanston, IL</p> <p>Tagalong is an app aimed to help people stay safe while walking to their destination by notifying the emergency contacts when the user gets out of their path. In a team of 6, I take care of the Android app and assist teammates on the back-end.</p>",
+		"client" : "Co-Founder, Android App Developer",
 		"url" : "",
 		"date": "September 2018 - Present",
 		"photos" : ["images/portfolio/projects/tagalong.jpg"]
@@ -145,15 +145,15 @@
 	},
 	"19" : {
 		"title" : "Protecting Kaz (Ida) Mountains",
-		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against a Canadian company searching gold in the mythologic Ida Mountains. The company, Alamos Gold, has already cut off more than 200,000 trees in the mountains, although they have only reported 13,400. This process destroying the natural habitat in these mythological mountains as well as the natural beauty. Our concern is that, during the extraction of the gold from the soil, the company will be using cyanide, which is a dangerous chemical both for humans and animals. Also, the mining area is less than 10 kilometers away from the Çanakkale's Atikhisar Dam, the only water source for more than 300,000 people living in the city. I took part in these protests by building a website with Flask and Python to help our cause gain more recognition in the media. Currently, there are more than 2,000 protesters camping in the protest area. Within two weeks, by the end of August 2019, we are expecting this number to rise to over 4,000 since this mass deforestation is getting international recognition and since the hashtag #KazdaglariHepimizin is rising to be the highest trending in Turkey.</p>",
+		"description" : "<p>Çanakkale (Gallipoli), TURKEY</p> <p>Helped build the official website for protests against a Canadian company searching gold in the mythological Ida Mountains. The company, Alamos Gold, has already cut off more than 200,000 trees in the mountains, although they have only reported 13,400. This process destroying the natural habitat in these mythological mountains as well as the natural beauty. Our concern is that, during the extraction of the gold from the soil, the company will be using cyanide, which is a dangerous chemical both for humans and animals. Also, the mining area is less than 10 kilometers away from the Çanakkale's Atikhisar Dam, the only water source for more than 300,000 people living in the city. I took part in these protests by building a website with Flask and Python to help our cause gain more recognition in the media. Currently, there are more than 2,000 protesters camping in the protest area. Within two weeks, by the end of August 2019, we are expecting this number to rise to over 4,000 since this mass deforestation is getting international recognition and since the hashtag #KazdaglariHepimizin is rising to be the highest trending in Turkey.</p>",
 		"client" : "Web Developer",
 		"url" : "http://www.kazdaglarisavunmasi.com/",
 		"date": "June 2019 - July 2019",
 		"photos" : ["images/portfolio/extracurricular/idasavunmasi2.jpg", "images/portfolio/extracurricular/idasavunmasi3.jpg", "images/portfolio/extracurricular/idasavunmasi4.png"]
 	},
 	"20" : {
-		"title" : "Turkish Economy Bank",
-		"description" : "<p>Istanbul, TURKEY</p> <p>Worked in a team of 4 data scientists and 4 computer scientists to build a machine learning model for predicting the probability of default for a given credit application. Developed methods for cleaning the data and filling in missing values, and created a web-based platform, named Cerebrum, for automating the data cleaning, outlier detection, model selection, model training and model deployment processes. The platform aims to help the user, who is a data scientist with limited programming knowledge, prepare the training data much faster by applying the most common techniques used in data preparation with the click of a button. Cerebrum is esentially an auto-ML application that walks the user through the whole process of developing the machine learning model, from data preparation to model deployment.</p>",
+		"title" : "BNP Paribas Turkey",
+		"description" : "<p>Istanbul, TURKEY</p> <p>Worked in a team of 4 data scientists and 4 computer scientists to build a supervised machine learning model for predicting the probability of default for a given credit application. Developed methods for cleaning the data and filling in missing values based on CRISP-DM schema, and created a web-based platform, named Cerebrum, for automating the data cleaning, outlier detection, model selection, model training and model deployment processes. The platform aims to help the user prepare the training data much faster by applying the most common techniques used in data preparation with the click of a button. Cerebrum is essentially an auto-ML application that walks the user through the whole process of developing the machine learning model, from data preparation to model deployment, speeding up the process and decreasing the chance of human errors.</p>",
 		"client" : "AI and Analytic Solutions Ass. Project Manager",
 		"url" : "",
 		"date": "August 2019 - September 2019",

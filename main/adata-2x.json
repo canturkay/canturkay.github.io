@@ -1,10 +1,10 @@
 {
 	"1" : {
 		"title" : "hymn",
-		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review and rating website with a team of 4. Our aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services. Currently, our platform has over 2 million songs, 200 thousand albums and 20 thousand artists.</p>",
+		"description" : "<p>Evanston, IL </p> <p>Co-Founded a music review and rating website with a team of 4. hymn's aim is to provide information about the songs you love, as well as giving you personalized song, album and artist recommendations based on your activity both on our app and on other music services. Currently, the platform has over 2 million songs, 200 thousand albums and 20 thousand artists.</p>",
 		"client" : "Co-Founder of a Startup, Technical Leader",
 		"url" : "http://hymnco.com/",
-		"date": "September 2018 - Present",
+		"date": "September 2018 - June 2019",
 		"photos" : ["images/portfolio/projects/HYMN.jpg"]
 	},
 	"2" : {
@@ -12,7 +12,7 @@
 		"description" : "<p>Evanston, IL</p> <p>Tagalong is an app aimed to help people stay safe while walking to their destination by notifying the emergency contacts when the user gets out of their path. In a team of 6, I take care of the Android app and assist teammates on the back-end.</p>",
 		"client" : "Co-Founder, Android App Developer",
 		"url" : "",
-		"date": "September 2018 - Present",
+		"date": "September 2018 - June 2019",
 		"photos" : ["images/portfolio/projects/tagalong.jpg"]
 	},
 	"3" : {
@@ -138,7 +138,7 @@
 	"18" : {
 		"title" : "DUCKT",
 		"description" : "<p>Istanbul, TURKEY</p> <p>Lead the software development process for the scooter charging station project. Built an android and IOS app, a flask web server for processing requests and information, and a Raspberry Pi at each station for locking and charging the scooters. Made the communication between the stations and the main server secure by building a VPN server on an EC2 instance on AWS. The mobile app is used to unlock your scooter from the station and to view the stations around your location on a map. The web server contains the databases that hold all the information about the DUCKT stations and the users. The Raspberry Pi's at each location contain RFID readers for identifying the scooter that docked into the station, lock mechanisms for locking and unlocking the scooters, and some other sensors (ie. temperature and humidity sensors) for monitoring the station in real time.</p>",
-		"client" : "Frontend and Backend Developer",
+		"client" : "Full Stack Developer",
 		"url" : "https://www.instagram.com/duckt.app/",
 		"date": "June 2019 - July 2019",
 		"photos" : ["images/portfolio/internships/DUCKT.jpg","images/portfolio/internships/DUCKT.gif"]
